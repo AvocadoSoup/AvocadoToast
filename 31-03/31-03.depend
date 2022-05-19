@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1648731124 source:c:\users\zzsp_uczen\desktop\2 tap oliver geiger\czwartkowe po\31-03\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<time.h>
+
